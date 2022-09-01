@@ -91,7 +91,8 @@ li {
 .header__bot-item:hover {
   color: #fca016;
 }
-.header__bot-spe, .header__bot-toggle {
+.header__bot-spe,
+.header__bot-toggle {
   margin-left: 26px;
 }
 .header__bot-spe {
@@ -102,7 +103,7 @@ li {
 }
 
 .slider {
-  background-image: url(/3d/img/slider.png);
+  background-image: url(./img/slider.png);
   background-position: center;
   height: 602px;
   display: flex;
